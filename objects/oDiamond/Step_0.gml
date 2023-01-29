@@ -1,0 +1,1 @@
+y = ystart + sin(get_timer()/200000)*5;
